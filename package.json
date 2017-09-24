@@ -1,0 +1,27 @@
+{
+  "name": "passportjs-example",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "mongoose": "~4.4",
+    "passport": "~0.2.0",
+    "passport-facebook": "~1.0.2",
+    "passport-twitter": "~1.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "description": "Ejemplo de logueo con facebook y twitter en nodejs con passportjs",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "author": "",
+  "license": "MIT"
+}
